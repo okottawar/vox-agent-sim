@@ -1,0 +1,25 @@
+world/
+│
+├── config.py
+├── enums.py
+├── types.py
+│
+├── state/
+│   ├── voxel_grid.py
+│   ├── agent_state.py
+│   └── world_state.py
+│
+├── terrain/
+│   └── terrain_generator.py
+│
+├── physics/
+│   ├── base.py
+│   └── physics_v1.py
+│
+├── core/
+│   ├── action_resolver.py
+│   ├── tick_manager.py
+│   └── world.py
+│
+└── api/
+    └── interface.py
