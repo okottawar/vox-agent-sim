@@ -2,7 +2,7 @@
 
 from dataclasses import dataclass
 from typing import Tuple
-from enums import Orientation
+from world.enums import Orientation
 
 
 @dataclass
