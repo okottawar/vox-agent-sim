@@ -2,7 +2,7 @@
 
 from world.enums import VoxelType, ActionType
 from world.config import PhysicsConfig
-from world.types import ActionResult
+from world.schemas import ActionResult
 
 
 class PhysicsEngineV1:
